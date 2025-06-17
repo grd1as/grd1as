@@ -28,14 +28,17 @@
 ### Architecture & Patterns
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00D9FF?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-9B59B6?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-4ECDC4?style=for-the-badge)
 ![Hexagonal](https://img.shields.io/badge/Hexagonal-45B7D1?style=for-the-badge)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge)
 
-### State Management
+### State Management & Patterns
 ![BLoC](https://img.shields.io/badge/BLoC-FF6B35?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00D4AA?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-96CEB4?style=for-the-badge)
 ![MobX](https://img.shields.io/badge/MobX-FF9500?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge)
 
 ### Cloud & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -43,10 +46,19 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge)
 
-### Testing & Quality
+### Development Practices & Design Patterns
+![TDD](https://img.shields.io/badge/TDD-FF4757?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-5F27CD?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-00CED1?style=for-the-badge)
+![Factory Pattern](https://img.shields.io/badge/Factory_Pattern-FF9F43?style=for-the-badge)
+![Observer Pattern](https://img.shields.io/badge/Observer_Pattern-70A1FF?style=for-the-badge)
+![Singleton](https://img.shields.io/badge/Singleton-FF6B6B?style=for-the-badge)
+
+### Testing & Quality Assurance
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-00C4CC?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-RED_GREEN_REFACTOR-red?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-4CAF50?style=for-the-badge)
+![Widget Testing](https://img.shields.io/badge/Widget_Testing-1DD1A1?style=for-the-badge)
+![Code Coverage](https://img.shields.io/badge/Code_Coverage-FF6348?style=for-the-badge)
 
 ### Emerging Technologies
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge)
