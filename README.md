@@ -8,11 +8,6 @@
 
 **Mobile Software Engineer** with over **8 years** of proven experience in multiplatform application development using Flutter and Dart. Specialized in enterprise solutions for fintech and white-label applications, with a demonstrated track record of delivering high-quality mobile solutions for companies like **Localiza**, **Sólides**, **Facisc**, and **Swap Meios de Pagamentos**.
 
-- 🏢 Currently focused on **payment solutions** and **fintech**
-- 🏗️ Expert in **scalable architectures** and **design systems**
-- 🔐 Strong experience in **security** and **compliance**
-- 🌐 **Web3** and **blockchain** enthusiast
-- 🤖 **Artificial Intelligence** certified
 - 📍 Florianópolis, SC - Brazil
 
 ## 🛠️ Tech Stack
