@@ -33,8 +33,9 @@
 ![Hexagonal](https://img.shields.io/badge/Hexagonal-45B7D1?style=for-the-badge)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge)
 
-### State Management & Patterns
+### State Management
 ![BLoC](https://img.shields.io/badge/BLoC-FF6B35?style=for-the-badge)
+![Cubit](https://img.shields.io/badge/Cubit-121D33?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00D4AA?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-96CEB4?style=for-the-badge)
 ![MobX](https://img.shields.io/badge/MobX-FF9500?style=for-the-badge)
