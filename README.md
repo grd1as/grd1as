@@ -58,6 +58,10 @@
 
 ## 💼 Professional Experience
 
+### 💳 CredutPay | Mobile Software Engineer
+**Nov 2024 - Present**
+- 🚀 Developing mobile payment solution
+
 ### 🏦 **Swap Payment Solutions** | *Mobile Software Engineer*
 **Dec 2021 - Nov 2024**
 - 💳 Developed functionalities for **white-label payment solutions**
@@ -75,17 +79,6 @@
 **Feb 2021 - May 2021**
 - 🗺️ Implemented **industrial scale mapping** functionalities
 - 🔧 Created reusable components to streamline development
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grd1as&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grd1as&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grd1as&theme=tokyonight" alt="grd1as" />
-</div>
 
 ## 🎯 Areas of Expertise
 
@@ -106,11 +99,8 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/grd1as/oi_meu_nome_e_guilherme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grd1as&repo=oi_meu_nome_e_guilherme&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/grd1as/fintech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grd1as&repo=fintech&theme=tokyonight" />
+  <a href="https://github.com/grd1as/mindwell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grd1as&repo=mindwell&theme=tokyonight" />
   </a>
 </div>
 
