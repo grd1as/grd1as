@@ -29,23 +29,19 @@
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00D9FF?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-9B59B6?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-4ECDC4?style=for-the-badge)
 ![Hexagonal](https://img.shields.io/badge/Hexagonal-45B7D1?style=for-the-badge)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-FF4757?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-5F27CD?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-4ECDC4?style=for-the-badge)
 
-### State Management & Design Patterns
+### State Management
 ![BLoC](https://img.shields.io/badge/BLoC-FF6B35?style=for-the-badge)
 ![Cubit](https://img.shields.io/badge/Cubit-121D33?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00D4AA?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-96CEB4?style=for-the-badge)
 ![MobX](https://img.shields.io/badge/MobX-FF9500?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-FF4757?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-5F27CD?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-00CED1?style=for-the-badge)
-![Factory Pattern](https://img.shields.io/badge/Factory_Pattern-FF9F43?style=for-the-badge)
-![Observer Pattern](https://img.shields.io/badge/Observer_Pattern-70A1FF?style=for-the-badge)
-![Singleton](https://img.shields.io/badge/Singleton-FF6B6B?style=for-the-badge)
 
 ### Cloud & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
