@@ -49,7 +49,7 @@
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-4CAF50?style=for-the-badge)
 ![Widget Testing](https://img.shields.io/badge/Widget_Testing-1DD1A1?style=for-the-badge)
 ![Code Coverage](https://img.shields.io/badge/Code_Coverage-FF6348?style=for-the-badge)
-![Clarity](https://img.shields.io/badge/Clarity-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Clarity](https://img.shields.io/badge/Clarity-3DDC84?style=for-the-badge&logoColor=white)
 
 ### Emerging Technologies
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge)
